@@ -1,8 +1,15 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background: #4682B4
+    font-family: 'Bree Serif', serif;
+    }
+
 .cabeçalho{
 font-family:  'Oswald', sans-serif;
 margin: 0px;
 padding: 0px;
-background-color: #8b99e9;
+background-color: #8FBC8F;
 display: flex;
 align-items: center;
 justify-content: space-between;
