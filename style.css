@@ -1,17 +1,22 @@
 body{
     padding: 0px;
     margin: 0px;
-    background:#8FBC8F
+    background: #FFEBEB;
     font-family: 'Bree Serif', serif;
     }
-
-.cabeçalho{
-font-family:  'Oswald', sans-serif;
-margin: 0px;
-padding: 0px;
-background-color: #8FBC8F;
-display: flex;
-align-items: center;
-justify-content: space-between;
-color: #000000
-}
+    
+    .cabeçalho{
+        font-family: 'Oswald', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-color:#8FBC8F
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #000000;
+    }
+    
+    .titulo-corpo{
+    display: flex;
+    justify-content: center;
+    }
