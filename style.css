@@ -13,7 +13,7 @@ body{
     background-color:#8FBC8F;
     display: flex;
     align-items: space-around
-    justify-content: space-between;
+    justify-content: flex-start  ;
     color: #000000;
     }
     
