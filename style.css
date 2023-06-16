@@ -7,15 +7,14 @@ body{
     }
     
     .cabeçalho{
-    font-family:'EB Garamond', serif;
-    margin: 0px;
-    padding: 0px;
-    background-color:#8FBC8F;
-    display: flex;
-    align-items: space-around
-    justify-content: flex-start  ;
-    color: #000000;
-    }
+        margin: 0px;
+        padding: 0px;
+        background-color: #8FBC8F;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        color: #000000;
+        }
     
     .titulo-corpo{
     display: flex;
