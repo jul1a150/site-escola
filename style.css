@@ -19,7 +19,7 @@ body{
     
     .titulo-corpo{
     display: flex;
-    justify-content: center;
+    justify-content:space-between;
     }
     
     .div-imagem-p1{
